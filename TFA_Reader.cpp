@@ -9,7 +9,7 @@ Vous pouvez lancer le programme via la commande :
         Le parametres de fin étant le numéro wiringPi du PIN relié au récepteur RF 433 mhz
 @author : Valentin CARRUESCO (idleman@idleman.fr)
 @contributors : Yann PONSARD, Jimmy LALANDE
-@Adaptation : Ghislain FOURNIER, pour rasperryPI.
+@Adaptation : Ghislain FOURNIER, pour RaspberryPI BananaPi.
 @webPage : http://blog.idleman.fr
 @references & Libraries: https://projects.drogon.net/raspberry-pi/wiringpi/, http://playground.arduino.cc/Code/HomeEasy
 @Aide C++ : http://carl.seleborg.free.fr/cpp/cours/annexes/operateurs.html
